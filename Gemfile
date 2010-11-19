@@ -30,6 +30,8 @@ gem 'sqlite3-ruby', :require => 'sqlite3'
  end
 
  group :test do
+#   gem 'autotest'
+#   gem 'redgreen'
    gem 'rspec'
    gem 'webrat'
  end
