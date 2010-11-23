@@ -80,6 +80,7 @@ GEM
       nokogiri (>= 1.2.0)
       rack (>= 1.0)
       rack-test (>= 0.5.3)
+    wirble (0.1.3)
 
 PLATFORMS
   ruby
@@ -90,3 +91,4 @@ DEPENDENCIES
   rspec-rails
   sqlite3-ruby
   webrat
+  wirble
