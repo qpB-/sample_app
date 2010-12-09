@@ -34,5 +34,6 @@ gem 'wirble'
 #   gem 'autotest'
 #   gem 'redgreen'
    gem 'rspec'
-   gem 'webrat'
+   gem 'webrat', '0.7.1'
+   gem 'spork'
  end
